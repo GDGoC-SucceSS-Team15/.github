@@ -1,5 +1,26 @@
-## Parker
+## :red_car: Parker
+#### 2025 GDG on Campus SucceSS Project team15
+주차 및 단속 구역 정보 서비스 Parker의 Organization입니다.
 
+<br/>
+
+
+## 🛠️ Contributor
+| AI-ML | Frontend | Frontend | Frontend | Backend | Backend | Backend | Backend |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| [<img src="https://avatars.githubusercontent.com/RohEunSeo" alt="" style="width:100px;100px;">](https://github.com/RohEunSeo)<br/><div align="center">노은서</div> | [<img src="https://avatars.githubusercontent.com/tndls0302" alt="" style="width:100px;100px;">](https://github.com/tndls0302)<br/><div align="center">김수인</div> | [<img src="https://avatars.githubusercontent.com/rladmsgki" alt="" style="width:100px;100px;">](https://github.com/rladmsgki) <br/><div align="center">김은하</div> | [<img src="https://avatars.githubusercontent.com/leeeyez" alt="" style="width:100px;100px;">](https://github.com/leeeyez) <br/><div align="center">이예지</div> | [<img src="https://avatars.githubusercontent.com/seun0123" alt="" style="width:100px;100px;">](https://github.com/seun0123) <br/><div align="center">박세은</div> | [<img src="https://avatars.githubusercontent.com/jiwonniy" alt="" style="width:100px;100px;">](https://github.com/jiwonniy) <br/><div align="center">우지원</div> | [<img src="https://avatars.githubusercontent.com/bigtr3" alt="" style="width:100px;100px;">](https://github.com/bigtr3) <br/><div align="center">전승은</div> | [<img src="https://avatars.githubusercontent.com/yina00" alt="" style="width:100px;100px;">](https://github.com/yina00) <br/><div align="center">최이나</div>
+
+<br/>
+
+
+## 🔗 Release
+[:red_car: Parker 바로가기](https://www.parker-sss15.site/)
+
+<br/>
+
+
+
+## 🔍 About Parker
 ![Slide 16_9 - 3](https://github.com/user-attachments/assets/cb404f99-c370-4966-8833-8d2a30d048b6)
 ![Slide 16_9 - 4](https://github.com/user-attachments/assets/95fbe2f5-8b24-4514-a6f4-4fd10a6ef7f2)
 ![Slide 16_9 - 5](https://github.com/user-attachments/assets/b787cb12-4b99-4347-a10c-caf6921f6d7d)
